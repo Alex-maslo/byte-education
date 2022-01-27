@@ -26,8 +26,8 @@ body {
 }
 
 .container {
-  /* max-width: 1070px; */
-  margin: 0 50px 0 50px;
+  max-width: 1070px;
+  margin: 54px auto;
 }
 
 .about {
